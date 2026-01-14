@@ -1,7 +1,7 @@
-.ll{    
-  font-style:italic;
-  color:beige;
-  margin-left: 500px;
-  padding-bottom: 100px;
-
+.ll{
+ color:beige;
+ display: inline-block;
+ margin:0 0 0 30rem;
+ padding-top:3rem;  
+ font-size:2.5rem;
 }
