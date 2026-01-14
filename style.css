@@ -4,22 +4,22 @@ body{
         background-size: cover;
         background-position: center;
 }
-.one{
+/*.one{
         align-items:center;
         display:flex;
         flex-direction:column;
         margin-top: 50px;
-    }
+    }*/
     .header h1{
         color: white;
-        text-align:  center;
-        font-size: 2.5rem;
+        text-align: center;
+        font-size: 3.5rem;
         margin:auto;
     }
     .header{
-        margin-top: 20px;
-        margin-left: 5%;
-        text-align: center;
+        margin-top:0.2px;
+        margin-left:5%;
+        text-align:center;
         display: flex;
     }
     .two{
@@ -37,6 +37,34 @@ body{
     .ll{
         color: aliceblue;
         text-align: center;
-        font-size: 1rem;
+        font-size: 4em;
+        padding-top: 4rem;
+        padding-bottom:1px;
+        font-style: oblique;
     }
-        
+  .one{
+    width:475px;
+    border-radius:14%;
+    margin-left:26rem;
+    mix-blend-mode: difference;
+    border:3px solid cyan;
+    box-shadow: 0px 0px 15px cyan,0px 0px 15px cyan;
+    margin-top: 4rem;
+    justify-content: center;
+  }        
+  img{
+    width:475px;
+    border-radius:14%;
+    height: auto;
+    align-items: center;
+  }
+.main{
+  color:beige;
+  font-size: 2rem;
+  text-align:center;
+  display: flex;
+  align-items:center;
+  justify-content:center;
+  font-weight: bolder;
+  font-style: italic;
+}
