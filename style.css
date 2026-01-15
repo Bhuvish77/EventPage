@@ -44,7 +44,7 @@ body{
         margin-bottom: auto;
     }
   .one{
-    width:700px;
+    width:500px;
     border-radius:0;
     margin-left:10rem;
     mix-blend-mode: difference;
@@ -54,9 +54,10 @@ body{
     justify-content: center;
   }        
   img{
-    width:700px;
+    width:500px;
     border-radius:0;
-    height: 350px;
+    height: auto;
+
     align-items: center;
   }
 .main{
