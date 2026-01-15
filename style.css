@@ -41,10 +41,14 @@ body{
         padding-top: 4rem;
         padding-bottom: 1rem;
         font-style: oblique;
+<<<<<<< HEAD
   
+=======
+        margin-bottom: auto;
+>>>>>>> 59e6ec8ac74ba3d5cb1f58a5ecdb69415e1ff197
     }
   .one{
-    width:475px;
+    width:500px;
     border-radius:0;
     margin-left:10rem;
     mix-blend-mode: difference;
@@ -54,9 +58,10 @@ body{
     justify-content: center;
   }        
   img{
-    width:475px;
+    width:500px;
     border-radius:0;
     height: auto;
+
     align-items: center;
   }
 .main{
