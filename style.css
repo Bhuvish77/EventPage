@@ -39,13 +39,14 @@ body{
         text-align: center;
         font-size: 4em;
         padding-top: 4rem;
-        padding-bottom:1px;
+        padding-bottom: 1rem;
         font-style: oblique;
+  
     }
   .one{
     width:475px;
     border-radius:0;
-    margin-left:0rem;
+    margin-left:10rem;
     mix-blend-mode: difference;
     border:3px solid cyan;
     box-shadow: 0px 0px 15px cyan,0px 0px 15px cyan;
@@ -67,4 +68,13 @@ body{
   justify-content:center;
   font-weight: bolder;
   font-style: italic;
+}
+.event-list{
+  color:aliceblue;
+  margin-right: 40px;
+  padding:
+}
+.event-list li{
+  background-color: #f5f5f5;
+  color: #333;
 }
